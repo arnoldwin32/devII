@@ -4,7 +4,7 @@
 ?>
 
   <body>
-
+	
     <!-- Navegar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
@@ -25,7 +25,7 @@
 
         <div class="col-lg-3">
 
-          <h1 class="my-4">Shop Name</h1>
+          <h1 class="my-4">Xablaus Games</h1>
           <div class="list-group">
             <a href="#" class="list-group-item">Category 1</a>
             <a href="#" class="list-group-item">Category 2</a>
@@ -56,11 +56,11 @@
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
+              <span class="sr-only">Anterior</span>
             </a>
             <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
+              <span class="sr-only">Próximo</span>
             </a>
           </div>
 
